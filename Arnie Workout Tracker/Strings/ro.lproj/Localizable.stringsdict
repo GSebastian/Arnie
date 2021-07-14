@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>setResult.timeSetResult.primaryLabel</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>0 repetiții</string>
+			<key>one</key>
+			<string>%d repetiție</string>
+			<key>other</key>
+			<string>%d repetiții</string>
+		</dict>
+	</dict>
+	<key>setResult.repSetResult.primaryLabel</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>0 repetiții</string>
+			<key>one</key>
+			<string>%d repetiție</string>
+			<key>other</key>
+			<string>%d repetiții</string>
+		</dict>
+	</dict>
+	<key>setPlan.repSetPlan.primaryLabel</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>0 repetiții</string>
+			<key>one</key>
+			<string>%d repetiție</string>
+			<key>other</key>
+			<string>%d repetiții</string>
+		</dict>
+	</dict>
+	<key>setPlan.timeSetPlan.primaryLabel</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@VARIABLE@</string>
+		<key>VARIABLE</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>0 secunde</string>
+			<key>one</key>
+			<string>%d secundă</string>
+			<key>other</key>
+			<string>%d secunde</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

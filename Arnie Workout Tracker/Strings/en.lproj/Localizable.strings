@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  Arnie Workout Tracker
+
+  Created by Sebastian Ghetu on 03/05/2020.
+  Copyright © 2020 Sebastian Ghetu. All rights reserved.
+*/
+
+workoutPlans.home.navBar = "Workouts";
+workoutPlans.home.tabBar = "Workouts";
+setPlan.timeSetPlan.flexibleDurationLabel = "ALAP";
+setPlan.repSetPlan.flexibleRepsLabel = "AMRAP";
+
+breakTracker.add10s = "+ 10 seconds";
+breakTracker.nextSet = "Next set";
+breakTracker.title = "Rest";
+breakTracker.breakFinishedNotification.title = "Break finished";
+breakTracker.breakFinishedNotification.body = "Time to get back to work!";
+
+timedSetTracker.pause = "Pause";
+timedSetTracker.nextSet = "Next set";
+
+authenticationLanding.authFailedAlert.title = "Authentication failed";
+
+pastWorkouts.home.navBar = "History";
+pastWorkouts.home.tabBar = "History";
+pastWorkouts.home.removeWorkoutAlert.title = "Are you sure?";
+pastWorkouts.home.removeWorkoutAlert.message = "This can't be undone.";
+pastWorkouts.home.removeWorkoutAlert.confirmButton = "Confirm";
+pastWorkouts.home.removeWorkoutAlert.cancelButton = "Cancel";
+pastWorkouts.workoutResult.setGroupingResult.breakLabel = "Break";
+
+exercises.add.errorTextEmpty = "Please give your exercise a non-empty name";
+
+more.home.navBar = "More";
+more.home.signOut = "Sign out";

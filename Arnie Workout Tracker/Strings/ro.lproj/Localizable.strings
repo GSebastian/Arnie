@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Arnie Workout Tracker
+
+  Created by Sebastian Ghetu on 03/05/2020.
+  Copyright © 2020 Sebastian Ghetu. All rights reserved.
+*/
+
+workoutPlans.home.navBar = "Antrenamente";
+setPlan.timeSetPlan.flexibleDurationLabel = "cat de mult posibil";
+setPlan.repSetPlan.flexibleRepsLabel = "cat de multe posibile";

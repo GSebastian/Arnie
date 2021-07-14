@@ -1,0 +1,6 @@
+framework module Pods_Arnie_Workout_TrackerTests {
+  umbrella header "Pods-Arnie Workout TrackerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

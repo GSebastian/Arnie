@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Arnie INT.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Arnie MOCK.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Arnie PROD.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Arnie Workout TrackerTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Arnie Workout TrackerUITests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>961AF9832444BC2C00C72ED2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>961AF9992444BC2D00C72ED2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>961AF9A42444BC2D00C72ED2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>962A8F952462016800FF85FA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>96CF451B24634FAC001F745D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
